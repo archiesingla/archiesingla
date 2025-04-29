@@ -12,8 +12,8 @@ Welcome to my digital playground! I'm a passionate **Software Developer** who lo
 ---
 
 ## 📫 Connect with Me
-- **Email:** [your-email@example.com](mailto:ar294593@dal.ca)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/archie-singla-3969491b9/)
+- **Email:** [ar294593@dal.ca](mailto:ar294593@dal.ca)
+- **LinkedIn:** [https://www.linkedin.com/in/archie-singla-3969491b9/](https://www.linkedin.com/in/archie-singla-3969491b9/)
 
 ---
 
@@ -77,7 +77,7 @@ A VSCode plugin to consume LLM based analysis of the code.
 
 ### Qirfy
 A real life problem solution- web QR based application, solving Everyday Parking Hassles with a Simple Scan!
-**Tech Stack:** Python, HTML, CSS,  JavaScript, Flask, MYSQL, SQL
+**Tech Stack:** Python, HTML, CSS,  JavaScript, Flask, MYSQL, SQL, Bootstrap, Jquery
 
 ### Letsorder
 A real client mobile application allowing customers to order the food from the restaurant. 
@@ -85,7 +85,7 @@ A real client mobile application allowing customers to order the food from the r
 
 ### Setupfood
 A real life problem solution- web QR based application allowing from Table to Checkout – Digitalising the Restaurant Experience 
-**Tech Stack:** Python, HTML, CSS,  JavaScript, Flask, MYSQL, SQL
+**Tech Stack:** Python, HTML, CSS,  JavaScript, Flask, MYSQL, SQL, Bootstrap, Jquery
 
 ---
 
