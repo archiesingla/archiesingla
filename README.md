@@ -16,11 +16,6 @@ Welcome to my digital playground! I'm a passionate **Software Developer** who lo
 - **LinkedIn:** [https://www.linkedin.com/in/archie-singla-3969491b9/](https://www.linkedin.com/in/archie-singla-3969491b9/)
 
 
-[![Email](https://img.shields.io/badge/Email-ar294593%40dal.ca-blue?style=for-the-badge&logo=gmail)](mailto:ar294593@dal.ca)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-archie--singla--3969491b9-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/archie-singla-3969491b9/)
-
----
-
 ## 🛠️ Languages and Tools
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
