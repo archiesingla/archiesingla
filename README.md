@@ -13,9 +13,8 @@ Welcome to my digital playground! I'm a passionate **Software Developer** who lo
 
 ## 📫 Connect with Me
 - **Email:** [ar294593@dal.ca](mailto:ar294593@dal.ca)
-- **LinkedIn:** [https://www.linkedin.com/in/archie-singla-3969491b9/](https://www.linkedin.com/in/archie-singla-3969491b9/)
+- [LinkedIn](https://www.linkedin.com/in/archie-singla-3969491b9/)
 
-## 📫 [Connect with Me on LinkedIn](https://www.linkedin.com/in/archie-singla-3969491b9/)
 
 
 ## 🛠️ Languages and Tools
@@ -68,7 +67,7 @@ Welcome to my digital playground! I'm a passionate **Software Developer** who lo
 
 ## 🚀 Key Projects
 
-### [Fusion Query](https://github.com/archiesingla#fusion-query)
+### [Fusion Query](https://github.com/archiesingla/fusion-query)
 AI Powered Data Exploration with RAG, deployed on AWS 
 **Tech Stack:** Langchain, Terraform , MySQL, Stremlit, Docker, CI/CD
 
