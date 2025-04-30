@@ -76,11 +76,13 @@ Welcome to my digital playground! I'm a passionate **Software Developer** who lo
 - A VSCode plugin to consume LLM based analysis of the code.  
 - **Tech Stack:** TypeScript, Rest API, Figma, Sonarqube
 
+### [Microservices Architecture](https://github.com/archiesingla/microservices_architecture/)
+- Designed and deployed microservices archtecture on GCP.  
+- **Tech Stack:** GCP, Kubernetes, Docker, API, Python, Flask, GKE, Artifact Registery, Terraform, CloudBuild
+
 ### [Qrify](https://github.com/archiesingla/qrify)
 - A real life problem solution- web QR based application, solving Everyday Parking Hassles with a Simple Scan! 
 - **Tech Stack:** Python, HTML, CSS,  JavaScript, Flask, MYSQL, SQL, Bootstrap, Jquery
-
-
 
 ### [Letsorder](https://github.com/archiesingla/letsorder)
 - A real client mobile application allowing customers to order the food from the restaurant.  
