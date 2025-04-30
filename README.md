@@ -68,31 +68,28 @@ Welcome to my digital playground! I'm a passionate **Software Developer** who lo
 ## 🚀 Key Projects
 
 ### [Fusion Query](https://github.com/archiesingla/fusionquery)
-- *AI Powered Data Exploration with RAG, deployed on AWS *  
-- ***Tech Stack:** Langchain, Terraform , MySQL, Stremlit, Docker, CI/CD * 
-AI Powered Data Exploration with RAG, deployed on AWS   
-**Tech Stack:** Langchain, Terraform , MySQL, Stremlit, Docker, CI/CD
+- AI Powered Data Exploration with RAG, deployed on AWS 
+- **Tech Stack:** Langchain, Terraform , MySQL, Stremlit, Docker, CI/CD 
 
 
 ### [Smart AI Refactor](https://github.com/archiesingla/smart-ai-refactor)
-A VSCode plugin to consume LLM based analysis of the code.  
-**Tech Stack:** TypeScript, Rest API, Figma, Sonarqube
+- A VSCode plugin to consume LLM based analysis of the code.  
+- **Tech Stack:** TypeScript, Rest API, Figma, Sonarqube
 
 ### [Qrify](https://github.com/archiesingla/qrify)
-A real life problem solution- web QR based application, solving Everyday Parking Hassles with a Simple Scan! 
-**Tech Stack:** Python, HTML, CSS,  JavaScript, Flask, MYSQL, SQL, Bootstrap, Jquery
+- A real life problem solution- web QR based application, solving Everyday Parking Hassles with a Simple Scan! 
+- **Tech Stack:** Python, HTML, CSS,  JavaScript, Flask, MYSQL, SQL, Bootstrap, Jquery
 
 
 
 ### [Letsorder](https://github.com/archiesingla/letsorder)
-A real client mobile application allowing customers to order the food from the restaurant.  
-**Tech Stack:** React, ReactNative, CSS, Mobile Native features: Camera, Rest API, Maps, Sensors, Animation
-
+- A real client mobile application allowing customers to order the food from the restaurant.  
+- **Tech Stack:** React, ReactNative, CSS, Mobile Native features: Camera, Rest API, Maps, Sensors, Animation
 
 
 ### [SetupFood](https://github.com/archiesingla/setupfood)
-A real life problem solution- web QR based application allowing from Table to Checkout – Digitalising the Restaurant Experience 
-**Tech Stack:** Python, HTML, CSS,  JavaScript, Flask, MYSQL, SQL, Bootstrap, Jquery
+- A real life problem solution- web QR based application allowing from Table to Checkout – Digitalising the Restaurant Experience 
+- **Tech Stack:** Python, HTML, CSS,  JavaScript, Flask, MYSQL, SQL, Bootstrap, Jquery
 
 ---
 
