@@ -13,7 +13,6 @@ Welcome to my digital playground! I'm a passionate **Software Developer** who lo
 
 ## 📫 Connect with Me
 - **Email:** [ar294593@dal.ca](mailto:ar294593@dal.ca)
-- **Email:** [ar294593@dal.ca](mailto:ar294593@dal.ca)
 - **LinkedIn:** [Archie Singla](https://www.linkedin.com/in/archie-singla-3969491b9/)
 
 
