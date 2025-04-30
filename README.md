@@ -68,6 +68,9 @@ Welcome to my digital playground! I'm a passionate **Software Developer** who lo
 ## 🚀 Key Projects
 
 ### [Fusion Query](https://github.com/archiesingla/fusionquery)
+AI Powered Data Exploration with RAG, deployed on AWS   
+**Tech Stack:** Langchain, Terraform , MySQL, Stremlit, Docker, CI/CD
+
 AI Powered Data Exploration with RAG, deployed on AWS 
 **Tech Stack:** Langchain, Terraform , MySQL, Stremlit, Docker, CI/CD
 
