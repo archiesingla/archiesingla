@@ -13,7 +13,8 @@ Welcome to my digital playground! I'm a passionate **Software Developer** who lo
 
 ## 📫 Connect with Me
 - **Email:** [ar294593@dal.ca](mailto:ar294593@dal.ca)
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/archie-singla-3969491b9/)
+- **Email:** [ar294593@dal.ca](mailto:ar294593@dal.ca)
+- **LinkedIn:** [Archie Singla](https://www.linkedin.com/in/archie-singla-3969491b9/)
 
 
 
@@ -71,19 +72,19 @@ Welcome to my digital playground! I'm a passionate **Software Developer** who lo
 AI Powered Data Exploration with RAG, deployed on AWS 
 **Tech Stack:** Langchain, Terraform , MySQL, Stremlit, Docker, CI/CD
 
-### Smart AI Refactor
+### [Smart AI Refactor](https://github.com/archiesingla/smart-ai-refactor)
 A VSCode plugin to consume LLM based analysis of the code.  
 **Tech Stack:** TypeScript, Rest API, Figma, Sonarqube
 
-### Qirfy
+### [Qrify](https://github.com/archiesingla/qrify)
 A real life problem solution- web QR based application, solving Everyday Parking Hassles with a Simple Scan!
 **Tech Stack:** Python, HTML, CSS,  JavaScript, Flask, MYSQL, SQL, Bootstrap, Jquery
 
-### Letsorder
+### [Letsorder](https://github.com/archiesingla/letsorder)
 A real client mobile application allowing customers to order the food from the restaurant. 
 **Tech Stack:** React, ReactNative, CSS, Mobile Native features: Camera, Rest API, Maps, Sensors, Animation
 
-### Setupfood
+### [SetupFood](https://github.com/archiesingla/setupfood)
 A real life problem solution- web QR based application allowing from Table to Checkout – Digitalising the Restaurant Experience 
 **Tech Stack:** Python, HTML, CSS,  JavaScript, Flask, MYSQL, SQL, Bootstrap, Jquery
 
