@@ -15,6 +15,8 @@ Welcome to my digital playground! I'm a passionate **Software Developer** who lo
 - **Email:** [ar294593@dal.ca](mailto:ar294593@dal.ca)
 - **LinkedIn:** [https://www.linkedin.com/in/archie-singla-3969491b9/](https://www.linkedin.com/in/archie-singla-3969491b9/)
 
+## 📫 [Connect with Me on LinkedIn](https://www.linkedin.com/in/archie-singla-3969491b9/)
+
 
 ## 🛠️ Languages and Tools
 <div>
