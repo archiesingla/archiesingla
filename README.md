@@ -81,9 +81,11 @@ A real life problem solution- web QR based application, solving Everyday Parking
 **Tech Stack:** Python, HTML, CSS,  JavaScript, Flask, MYSQL, SQL, Bootstrap, Jquery
 
 
+
 ### [Letsorder](https://github.com/archiesingla/letsorder)
-A real client mobile application allowing customers to order the food from the restaurant. 
+A real client mobile application allowing customers to order the food from the restaurant.  
 **Tech Stack:** React, ReactNative, CSS, Mobile Native features: Camera, Rest API, Maps, Sensors, Animation
+
 
 
 ### [SetupFood](https://github.com/archiesingla/setupfood)
